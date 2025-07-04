@@ -1,5 +1,7 @@
 # YouTubeOAuth2AuthorizerApp
 
+#### v1.0.0
+
 ## 👉 used for Kyber Vision 16 to delete videos from YouTube
 
 ## Using the app
