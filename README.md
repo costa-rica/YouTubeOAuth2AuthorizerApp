@@ -11,7 +11,8 @@
 - must get client_id and client_secret from Google Cloud Console
   - go to https://console.cloud.google.com/
   - select the kyber vision account (not your personal account)
-- get credentials for desktop app
+- go to Enabled APIs & Services > Credentials > Create credentials > OAuth Client ID
+- create for "Desktop app"
 - add test user to YouTube account
 - you will get a file that looks like: client_secret_12345abce.apps.googleusercontent.com.json
 - move this file to the authJsonFiles directory and rename it to client_secret.json
